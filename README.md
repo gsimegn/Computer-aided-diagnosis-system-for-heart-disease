@@ -128,7 +128,7 @@ Seaborn
 
 Clone the repository:
 
-git clone https://github.com/gsimegn/Computer-aided-diagnosis-system-for-heart-disease/>
+git clone https://github.com/gsimegn/Computer-aided-diagnosis-system-for-heart-disease
 
 Install common dependencies:
 
